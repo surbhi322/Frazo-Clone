@@ -1,70 +1,117 @@
-# Getting Started with Create React App
+<h2>Welcome to this repo</h2>
+I had completed the task in 5 days and Given my best efforts to Construct this project.
+In case of any suggestion and query feel free to connect me
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <h1>About </h1>
+Fraazo is one of India’s largest quick commerce start-ups on a mission to provide every Indian household farm-fresh fruits and vegetables daily, ordered from the convenience of their homes. Fraazo is the first company in India to establish the concept of dark stores in the fruits and vegetable segment.
+ 
+ 
+ <h1>TOOLS AND TECHNOLOGY USED ></h1>
+  <li>HTML (through React)</li>
+  <li>css</li>
+<li>javascript</li>  
+<li>React</li>
+<li>Nodejs</li>
+<li>mongodb atlas (for database)</li>
+ <li>React</li>
+ <li>Redux</li>
+ <li>Node.js</li>
 
-## Available Scripts
+ 
+ 
+  <h1>Node packages and libraries ></h1>
+ <li>cors : 2.8.5</li>
+ <li>express : 4.17.1</li>
+ <li>mongoose : 6.0.8</li>
+<li>nodemon : 2.0.13</li>
+<li>jsonwebtoken</li>
+ <li>react : 17.0.2</li>
+ <li>react-dom : 17.0.2</li>
+ <li>react-router-dom : 5.3.0</li>
+  <li>Chakra UI</li>
+ <li>react-Redux</li>
+  <li>react-multi-carousel</li>
+   <li>redux-thunk</li>
+   <li>axios</li>
+   
+ 
 
-In the project directory, you can run:
+ 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Project Description
 
-### `npm test`
+_To start with the Project run the following command in terminal in "backend" folder_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> > ⌘ **npm start**
 
-### `npm run build`
+> After that 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> _go to the "frontend" folder and run the following command in terminal_
+ 
+> > ⌘ **npm start**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+>   and than you can explore our project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+_Or you can directly explore our project through this link_
+ 
+ 
+ ### _Following are the Screenshots for the reference_
 
-### `npm run eject`
+- **Landing Page**
+  ![Landing Page](IMAGES/Landing.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Product Page**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ![Product Page](IMAGES/product.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Cart-Page**
 
-## Learn More
+  ![Cart-Page](IMAGES/Cart.png)
+  
+- **Sign-In Page**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  ![Sign-In Page](IMAGES/Login.png)
+  
+- **Sign-up Page**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ![Sign-In Page](IMAGES/Signup.png)
 
-### Code Splitting
+- **Checkout Page**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  ![Checkout Page](IMAGES/checkout1.png)
+  
 
-### Analyzing the Bundle Size
+- **Payment Page**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  ![Payment Page](IMAGES/checkout2.png)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+### About Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+> I did this project within 5 days in our unit-5 construct week. I worked on backend & frontend parts with includes various types of libraries into it and I have also added database for our project so user and product details will be saved and can be used accordingly. I have also add some cool functionality in our product page where you can filter and sort the product according to your choice and user can Signup and Login to buy the products.
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Netlify Link
+
+https://frazoclone.netlify.app
+ ------
+ <h1>WEBSITE USER FLOW ></h1>
+ ----
+the user flow that we tried to maintain is,
+
+home -> login/signup -> dashboard -> get started to products -> create user Id-> Enter email details -> choose products -> Product detail page-> -> Products Check out page ->payment status -> order placed -> track status.
+ 
+----
+ 
+---
+
+---
